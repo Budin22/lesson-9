@@ -307,3 +307,35 @@ body {
     background-color: #FFFFFF;
     color: black;
 }
+.last-screen {
+    background-color: #FFFFFF;
+    padding-top: 60px;
+}
+.ssilka {
+    font-size: 12px;
+    line-height: 28px;
+    color: #828282;
+    text-decoration: none;
+    display: block;
+}
+.categ-title {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #000000;
+    max-width: 99px;
+    margin-bottom: 30px;
+}
+.bord {
+    height: 1px;
+    background-color: #EFEFEF;
+    margin-bottom: 25px;
+}
+.categ {
+    width: 255px;
+    margin-right: 30px;
+    float: left;
+}
+.categ:nth-last-of-type(1) {
+    margin-right: 0;
+}
