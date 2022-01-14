@@ -222,8 +222,88 @@ body {
     padding: 32.5px 63px;
     border: 1px solid #EFEFEF;
 }
+.impuls:hover {
+    background-color: #f1dfdf;
+
+}
 .clum {
     max-width: 1110px;
     margin-left: auto;
     margin-right: auto;
+}
+.list {
+    width: 1110px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.latter {
+    background: #F13C6E;
+    float: left;
+    width: 540px;
+    vertical-align: top;
+}
+.list-screen {
+    padding: 100px 0 0 0;
+}
+.title-letter {
+    font-size: 18px;
+    font-style: 700;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+.text-letter {
+    max-width: 231px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+
+}
+.letter-content {
+    float: left;
+    margin: 35px 0 0 40px;
+}
+.mail {
+    border-radius: 30px;
+    background: #FFFFFF;
+    border: #FFFFFF solid 0px;
+    padding: 9px 25px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #C4C4C4;
+    margin-bottom: 35px;
+}
+.icon {
+    padding: 52.73px 45px 0 0;
+    float: right;
+}
+.latter.car {
+    float: right;
+}
+.bus {
+    padding: 56px 45.33px 0 0;
+    float: right;
+
+}
+.text-letter.corn {
+    max-width: 141px;
+}
+.bus-button {
+    background: #F13C6E;
+    border: 2px solid #FFFFFF;
+    border-radius: 30px;
+    text-align: center;
+    text-decoration: none;
+    padding: 7px 26px 7px 27px;
+    color: #FFFFFF;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 35px;
+
+}
+.bus-button:hover {
+    background-color: #FFFFFF;
+    color: black;
 }
